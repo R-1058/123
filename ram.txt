@@ -74,3 +74,17 @@ tmpfs           496M     0  496M   0% /sys/fs/cgroup
 /dev/loop1       56M   56M     0 100% /snap/core18/2128
 /dev/loop2       25M   25M     0 100% /snap/amazon-ssm-agent/4046
 tmpfs           100M     0  100M   0% /run/user/1000
+              total        used        free      shared  buff/cache   available
+Mem:           990M         84M        331M        4.5M        575M        727M
+Swap:            0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+udev            488M     0  488M   0% /dev
+tmpfs           100M  4.5M   95M   5% /run
+/dev/xvda1      7.7G  1.0G  6.7G  14% /
+tmpfs           496M     0  496M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           496M     0  496M   0% /sys/fs/cgroup
+/dev/loop0       33M   33M     0 100% /snap/snapd/13170
+/dev/loop1       56M   56M     0 100% /snap/core18/2128
+/dev/loop2       25M   25M     0 100% /snap/amazon-ssm-agent/4046
+tmpfs           100M     0  100M   0% /run/user/1000
