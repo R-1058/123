@@ -1,5 +1,7 @@
+servername ip-172-31-47-19
+Fri Apr  1 10:34:55 UTC 2022
               total        used        free      shared  buff/cache   available
-Mem:           990M         84M        330M        4.5M        576M        727M
+Mem:           990M         83M        788M        4.5M        118M        763M
 Swap:            0B          0B          0B
 Filesystem      Size  Used Avail Use% Mounted on
 udev            488M     0  488M   0% /dev
